@@ -1,0 +1,18 @@
+{
+    "name": "gitignore",
+    "files": [
+        ".github/PULL_REQUEST_TEMPLATE.md",
+        "CONTRIBUTING.md",
+        "Global/README.md",
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "dependencies": {
+        "device": "*"
+    },
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
